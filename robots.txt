@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ilpyeoneel.com//sitemap.xml
+Sitemap: https://ilpyeoneel.com/sitemap.xml
